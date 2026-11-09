@@ -1,0 +1,91 @@
+@import "tailwindcss";
+
+/* ==========================================================================
+   Global Theme Variables - GEOVERSED Smart Solution OPC Pvt. Ltd.
+   Modern Geospatial AI & GovTech Palette (Royal Blue, Deep Indigo & Cyan)
+   ========================================================================== */
+:root {
+  --primary-navy: #0F172A;
+  --primary-indigo: #1E1B4B;
+  --primary-blue: #2563EB;
+  --primary-blue-hover: #1D4ED8;
+  --accent-cyan: #0EA5E9;
+  --accent-cyan-light: #E0F2FE;
+  --accent-indigo-light: #EEF2FF;
+  --bg-white: #FFFFFF;
+  --bg-card: #F8FAFC;
+  --text-dark: #0F172A;
+  --text-muted: #64748B;
+  --font-heading: 'Poppins', sans-serif;
+  --font-body: 'Inter', sans-serif;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--text-dark);
+  background-color: var(--bg-white);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+}
+
+/* Smooth transition defaults */
+a, button, .transition-smooth {
+  transition: all 0.25s ease;
+}
+
+/* Modern pill button classes */
+.btn-primary {
+  background-color: var(--primary-blue);
+  color: #ffffff;
+  padding: 0.625rem 1.5rem;
+  border-radius: 9999px;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.25s ease;
+}
+.btn-primary:hover {
+  background-color: var(--primary-blue-hover);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(37, 99, 235, 0.25);
+}
+
+.btn-cyan {
+  background-color: var(--accent-cyan);
+  color: #ffffff;
+  padding: 0.625rem 1.5rem;
+  border-radius: 9999px;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.25s ease;
+}
+.btn-cyan:hover {
+  background-color: #0284C7;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(14, 165, 233, 0.3);
+}
+
+.btn-outline-white {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  padding: 0.625rem 1.5rem;
+  border-radius: 9999px;
+  font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  backdrop-filter: blur(4px);
+  transition: all 0.25s ease;
+}
+.btn-outline-white:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.6);
+  transform: translateY(-1px);
+}

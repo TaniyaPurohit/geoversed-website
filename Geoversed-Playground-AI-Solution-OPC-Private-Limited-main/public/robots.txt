@@ -1,0 +1,10 @@
+# robots.txt for GEOVERSED Playground AI Solution (OPC) Private Limited
+User-agent: *
+Allow: /
+Allow: /reports/
+Allow: /sitemap.xml
+
+# Sitemap location
+Sitemap: https://geoversed-playground-ai-solution-opc.netlify.app/sitemap.xml
+Sitemap: https://geoversed.in/sitemap.xml
+Sitemap: /sitemap.xml

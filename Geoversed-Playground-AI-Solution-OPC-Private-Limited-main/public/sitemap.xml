@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Core Landing Page -->
+  <url>
+    <loc>https://geoversed.in/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Section: About & Statutory Incorporation -->
+  <url>
+    <loc>https://geoversed.in/#about</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Section: Core Geoscience & GIS Services -->
+  <url>
+    <loc>https://geoversed.in/#services</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Section: Selected Geospatial Projects -->
+  <url>
+    <loc>https://geoversed.in/#projects</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Section: Knowledge Hub & Insights -->
+  <url>
+    <loc>https://geoversed.in/#insights</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Section: Contact & Technical Inquiries -->
+  <url>
+    <loc>https://geoversed.in/#contact</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Technical Research Publication: Dhargad Watershed Report -->
+  <url>
+    <loc>https://geoversed.in/reports/Dhargad_Watershed_Rejuvenation_Report_2026.pdf</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Technical Research Publication: Bhalyuta Spring & Panyali Gadgera Report -->
+  <url>
+    <loc>https://geoversed.in/reports/Bhalyuta_Spring_Panyali_Gadgera_Rejuvenation_Report_2026.pdf</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Technical Research Publication: HASCO Jamakhal Stream Rejuvenation -->
+  <url>
+    <loc>https://geoversed.in/reports/HASCO_Final.pdf</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Statutory Document: MCA Certificate of Incorporation -->
+  <url>
+    <loc>https://geoversed.in/reports/Certificate_of_incorporation.pdf</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Legal: Privacy Policy -->
+  <url>
+    <loc>https://geoversed.in/#privacy</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Legal: Terms of Service -->
+  <url>
+    <loc>https://geoversed.in/#terms</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
